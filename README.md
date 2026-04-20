@@ -120,17 +120,25 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=Bubi-Pre&theme=tokyonight&no-frame=true)]()
-
-</div>
 
 <div align="center">
 
 [![Gia Bảo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bubi-Pre&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true)](https://github.com/Bubi-Pre)
 
 </div>
+
+---
+
+## `> wakatime --stats`
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/Bubi-Pre.svg)](https://wakatime.com/@Bubi-Pre)
+
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
