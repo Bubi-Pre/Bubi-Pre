@@ -2,15 +2,15 @@
 
 <!-- TYPING SVG -->
 <a href="https://bubiai.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%7C+Technical+Lead;Nuxt.js+%2B+.NET+10+%2B+MySQL+%7C+Da+Nang%2C+Vietnam;Building+products+that+matter+%E2%80%94+BubiAI.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%7C+Software+developer;Nuxt.js+%2B+.NET+10+%2B+SQLServer+%7C+Da+Nang%2C+Vietnam;Building+products+that+matter+%E2%80%94+BubiAI.com" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nguyenquocanh.io.vn-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-levangiabao.io.vn-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Bubi--Pre-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bubi-Pre/)
 [![BubiAI](https://img.shields.io/badge/BubiAI-bubiai.com-D4A017?style=for-the-badge&logo=robotframework&logoColor=white)](https://bubiai.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@nqatech2003-229ED9?style=for-the-badge&logo=telegram&logoColor=white)]()
+[![Telegram](https://img.shields.io/badge/Telegram-@bubi09-229ED9?style=for-the-badge&logo=telegram&logoColor=white)]()
 
 </div>
 
@@ -156,9 +156,9 @@ Mục tiêu của mình là biến ý tưởng thành sản phẩm thực tế n
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nguyenquocanh.io.vn-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://nguyenquocanh.io.vn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-levangiabao.io.vn-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)]()
 [![BubiAI](https://img.shields.io/badge/BubiAI-bubiai.com-D4A017?style=for-the-badge&logo=robotframework&logoColor=white)](https://bubiai.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@nqatech2003-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nqatech2003)
+[![Telegram](https://img.shields.io/badge/Telegram-@bubi09-229ED9?style=for-the-badge&logo=telegram&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Bubi--Pre-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bubi-Pre/)
 
 </div>
