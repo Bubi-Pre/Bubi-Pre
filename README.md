@@ -122,7 +122,7 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bubi-Pre&theme=tokyonight&no-frame=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=Bubi-Pre&theme=tokyonight&no-frame=true)]()
 
 </div>
 
