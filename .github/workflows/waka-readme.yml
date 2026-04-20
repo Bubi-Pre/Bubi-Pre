@@ -1,21 +1,33 @@
-name: Waka Readme
+name: Waka Readme Stats
 
 on:
   schedule:
+    # Chạy lúc 00:00 UTC mỗi ngày
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Cho phép chạy thủ công
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "True"
-          SHOW_EDITORS: "True"
+          # Hiện ngôn ngữ lập trình
           SHOW_LANGUAGE: "True"
-          SHOW_PROJECTS: "True"
+          # Hiện editor đang dùng (Cursor, Rider,...)
+          SHOW_EDITORS: "True"
+          # Hiện OS
+          SHOW_OS: "True"
+          # Hiện timezone
           SHOW_TIMEZONE: "True"
+          # Hiện project đang làm
+          SHOW_PROJECTS: "True"
+          # Số project tối đa hiển thị
+          SHOW_SHORT_INFO: "True"
+          # Dùng icon thay text
+          SHOW_ICONS: "True"
+          # Chỉ hiện 7 ngày gần nhất
+          COMMIT_BY_ME: "True"
