@@ -27,7 +27,5 @@ jobs:
           SHOW_PROJECTS: "True"
           # Số project tối đa hiển thị
           SHOW_SHORT_INFO: "True"
-          # Dùng icon thay text
-          SHOW_ICONS: "True"
-          # Chỉ hiện 7 ngày gần nhất
+          # Chỉ commit bởi chính mình
           COMMIT_BY_ME: "True"
