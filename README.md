@@ -133,8 +133,8 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/Bubi-Pre.svg)](https://wakatime.com/@Bubi-Pre)
-
+[![wakatime](https://wakatime.com/badge/user/61c4865e-c1ba-46a5-a57a-68574dc379e9.svg)](https://wakatime.com/@BubiPre)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BubiPre&theme=tokyonight)
 </div>
 
 <!--START_SECTION:waka-->
