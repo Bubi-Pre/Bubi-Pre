@@ -138,6 +138,78 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 103.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 15 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+🌆 Daytime                18 commits          ██████████░░░░░░░░░░░░░░░   40.91 % 
+🌃 Evening                18 commits          ██████████░░░░░░░░░░░░░░░   40.91 % 
+🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Tuesday                  10 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 17 commits          ██████████░░░░░░░░░░░░░░░   38.64 % 
+Friday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C#                       2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Bubi-Pre/Bubi-Pre/main/assets/bar_graph.png)
+
+
+ Last Updated on 21/04/2026 01:53:52 UTC
 <!--END_SECTION:waka-->
 
 ---
