@@ -154,6 +154,45 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+🌆 Daytime                18 commits          ██████████░░░░░░░░░░░░░░░   40.91 % 
+🌃 Evening                18 commits          ██████████░░░░░░░░░░░░░░░   40.91 % 
+🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Tuesday                  10 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 17 commits          ██████████░░░░░░░░░░░░░░░   38.64 % 
+Friday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -170,7 +209,7 @@ C#                       2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bubi-Pre/Bubi-Pre/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 02:36:39 UTC
+ Last Updated on 19/05/2026 02:35:07 UTC
 <!--END_SECTION:waka-->
 
 ---
