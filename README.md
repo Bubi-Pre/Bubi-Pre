@@ -181,17 +181,17 @@ Sunday                   4 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               22 mins             █████████████████████████   99.64 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               30 mins             █████████████████████████   99.74 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Antigravity              22 mins             █████████████████████████   100.00 % 
+Antigravity              31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Portfolio-Website-main   22 mins             █████████████████████████   100.00 % 
+Portfolio-Website-main   31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +210,7 @@ C#                       2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bubi-Pre/Bubi-Pre/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 02:35:39 UTC
+ Last Updated on 21/05/2026 02:37:07 UTC
 <!--END_SECTION:waka-->
 
 ---
