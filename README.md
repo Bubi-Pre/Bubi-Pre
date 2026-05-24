@@ -138,8 +138,6 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2044%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -181,17 +179,18 @@ Sunday                   4 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               30 mins             █████████████████████████   99.74 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript               42 mins             █████████████████████████   99.81 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Antigravity              31 mins             █████████████████████████   100.00 % 
+Antigravity              42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Portfolio-Website-main   31 mins             █████████████████████████   100.00 % 
+Portfolio-Website-main   31 mins             ██████████████████░░░░░░░   72.26 % 
+Bubi AI                  11 mins             ███████░░░░░░░░░░░░░░░░░░   27.74 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +209,7 @@ C#                       2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bubi-Pre/Bubi-Pre/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 02:14:56 UTC
+ Last Updated on 24/05/2026 02:33:41 UTC
 <!--END_SECTION:waka-->
 
 ---
