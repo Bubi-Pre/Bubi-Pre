@@ -144,7 +144,7 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
 
 **🐱 My GitHub Data** 
 
-> 📦 103.5 kB Used in GitHub's Storage 
+> 📦 114.0 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -152,7 +152,7 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
  > 
 > 📜 6 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -181,27 +181,27 @@ Sunday                   4 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               42 mins             █████████████████████████   99.81 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+TypeScript               20 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity              42 mins             █████████████████████████   100.00 % 
+Antigravity              20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Portfolio-Website-main   31 mins             ██████████████████░░░░░░░   72.26 % 
-Bubi AI                  11 mins             ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+Bubi AI                  11 mins             ███████████████░░░░░░░░░░   58.28 % 
+Portfolio-Website-main   8 mins              ██████████░░░░░░░░░░░░░░░   41.72 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-C#                       2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               6 repos             ████████████░░░░░░░░░░░░░   46.15 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+C#                       2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
@@ -211,7 +211,7 @@ C#                       2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bubi-Pre/Bubi-Pre/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2026 02:42:18 UTC
+ Last Updated on 26/05/2026 02:31:51 UTC
 <!--END_SECTION:waka-->
 
 ---
