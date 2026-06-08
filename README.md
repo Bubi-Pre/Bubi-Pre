@@ -138,6 +138,8 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2056%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -152,24 +154,24 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-🌆 Daytime                16 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
-🌃 Evening                18 commits          ███████████░░░░░░░░░░░░░░   42.86 % 
-🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌞 Morning                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+🌆 Daytime                18 commits          ██████████░░░░░░░░░░░░░░░   40.91 % 
+🌃 Evening                18 commits          ██████████░░░░░░░░░░░░░░░   40.91 % 
+🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Tuesday                  10 commits          ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Monday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Tuesday                  10 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
 Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 15 commits          █████████░░░░░░░░░░░░░░░░   35.71 % 
-Friday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Thursday                 17 commits          ██████████░░░░░░░░░░░░░░░   38.64 % 
+Friday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Sunday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -208,7 +210,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bubi-Pre/Bubi-Pre/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 02:46:51 UTC
+ Last Updated on 08/06/2026 02:50:00 UTC
 <!--END_SECTION:waka-->
 
 ---
