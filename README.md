@@ -138,7 +138,9 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2055%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -193,6 +195,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -210,7 +218,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bubi-Pre/Bubi-Pre/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 02:08:16 UTC
+ Last Updated on 28/07/2026 01:50:03 UTC
 <!--END_SECTION:waka-->
 
 ---
