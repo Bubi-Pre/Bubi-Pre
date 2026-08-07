@@ -138,10 +138,6 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2055%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -156,51 +152,6 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-🌆 Daytime                18 commits          ███████████░░░░░░░░░░░░░░   42.86 % 
-🌃 Evening                17 commits          ██████████░░░░░░░░░░░░░░░   40.48 % 
-🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Tuesday                  9 commits           █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 16 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
-Friday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -218,7 +169,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bubi-Pre/Bubi-Pre/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 01:50:00 UTC
+ Last Updated on 07/08/2026 02:12:58 UTC
 <!--END_SECTION:waka-->
 
 ---
