@@ -146,7 +146,7 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
 
 **🐱 My GitHub Data** 
 
-> 📦 102.0 kB Used in GitHub's Storage 
+> 📦 101.9 kB Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2026
  > 
@@ -218,7 +218,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bubi-Pre/Bubi-Pre/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 00:45:04 UTC
+ Last Updated on 21/08/2026 00:50:29 UTC
 <!--END_SECTION:waka-->
 
 ---
