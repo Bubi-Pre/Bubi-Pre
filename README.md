@@ -146,7 +146,7 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
 
 **🐱 My GitHub Data** 
 
-> 📦 102.0 kB Used in GitHub's Storage 
+> 📦 22.7 kB Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2026
  > 
@@ -154,26 +154,26 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-🌆 Daytime                18 commits          ███████████░░░░░░░░░░░░░░   42.86 % 
-🌃 Evening                17 commits          ██████████░░░░░░░░░░░░░░░   40.48 % 
-🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌞 Morning                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+🌆 Daytime                7 commits           █████████░░░░░░░░░░░░░░░░   36.84 % 
+🌃 Evening                6 commits           ████████░░░░░░░░░░░░░░░░░   31.58 % 
+🌙 Night                  4 commits           █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Tuesday                  9 commits           █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Monday                   6 commits           ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Tuesday                  4 commits           █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 16 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
-Friday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   7 commits           █████████░░░░░░░░░░░░░░░░   36.84 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Sunday                   2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 ```
 
 
@@ -201,14 +201,11 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in C#** 
 
 ```text
-JavaScript               5 repos             ███████████░░░░░░░░░░░░░░   45.45 % 
-Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-C#                       2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C#                       2 repos             █████████████████░░░░░░░░   66.67 % 
+TypeScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
 
@@ -218,7 +215,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bubi-Pre/Bubi-Pre/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 03:45:41 UTC
+ Last Updated on 31/10/2026 03:29:12 UTC
 <!--END_SECTION:waka-->
 
 ---
