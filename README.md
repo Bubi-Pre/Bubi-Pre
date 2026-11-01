@@ -142,7 +142,7 @@ Framework tự xây từ năm 12 tuổi — nền tảng đầu tiên giúp mìn
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -215,7 +215,7 @@ TypeScript               1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bubi-Pre/Bubi-Pre/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 03:29:12 UTC
+ Last Updated on 01/11/2026 03:33:27 UTC
 <!--END_SECTION:waka-->
 
 ---
